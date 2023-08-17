@@ -19,5 +19,7 @@ U need to know main command to work with Git.
 ---
 
 
-From polovnikovAI with Love ```html <div>❤️</div>
+From polovnikovAI with Love 
+```html 
+<div>❤️</div>
 ```
